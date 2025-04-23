@@ -10,7 +10,7 @@ def hello_mysql():
             host="127.0.0.1",
             port=3306,
             user="root",
-            password="g7K!xZ9v#Pf@13LmRq$w",
+            password="YOUR_PASSWORD",
             database="Admin"
         )
         cursor = conn.cursor()
